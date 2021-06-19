@@ -1,0 +1,15 @@
+This is a brute force Kahoot Spammer, the fastest one on Github, or on the internet. This will continue to be updated after I post this on github.
+To run this program, you must have python installed. 
+
+Steps And Installation:
+Going to www.python.org, moving to the downloads section, and hitting download, then follow the steps prompted, and you will have python installed! After that, in command prompt type "pip install kahootpy", and let the module install. After this is complete, you are set to go! The only thing needed to be done, is to update your config.json file with the bot amount, GameID, and desired name of the bots! Please be aware that the amount of bots that you put, will not be that in the lobby. It will go on and on, it is suggeseted that if you want to send a lot of bots you make the bot amount at 88. Then, simply click on the .pyc file, and the bots will rush into the lobby! If you so choose to take out the bots in a middle of the process, simply close out of the program that prints out the information about the bots joining the kahoot.
+
+THIS IS FULLY MADE BY ME!
+
+Please be responsibile, do not try to aggravate many people!
+I am not responsibile for anything you do with this tool, so use at your own risk.
+
+You may view the video provided to see the speed of this Kahoot Flooder
+
+Best Wishes
+  - SkiBop
