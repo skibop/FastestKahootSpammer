@@ -2,9 +2,13 @@ This is a brute force Kahoot Spammer, the fastest one on Github, or on the inter
 To run this program, you must have python installed. 
 
 Steps And Installation:
-Going to www.python.org, moving to the downloads section, and hitting download, then follow the steps prompted, and you will have python installed! After that, in command prompt type "pip install kahootpy", and let the module install. After this is complete, you are set to go! The only thing needed to be done, is to update your config.json file with the bot amount, GameID, and desired name of the bots! Please be aware that the amount of bots that you put, will not be that in the lobby. It will go on and on, it is suggeseted that if you want to send a lot of bots you make the bot amount at 88. Then simply double click on the script.py file, or run it in the terminal, and the bots will rush into the lobby! If you so choose to take out the bots in a middle of the process, simply close out of the program that prints out the information about the bots joining the kahoot.
 
-THIS IS FULLY MADE BY ME!
+- Go to https://www.python.org/downloads/, hit the download button and follow the steps prompted, and you will have python installed!
+-  After that, in command prompt type "pip install kahootpy", and let the module install. 
+-  After this is complete, you are set to go! 
+-  Lastly, update your config.json file with the bot amount, GameID, and desired name of the bots! Please be aware that the amount of bots that you put, will not be that in the lobby. It will go on and on, it is suggeseted that if you want to send a lot of bots you set is 88, for max effiency and less performance issues. Then simply double click on the script.py file, or run it in the terminal, and the bots will rush into the lobby! 
+-  If you so choose to take out the bots in a middle of the process, simply close out of the program that prints out the information about the bots joining the kahoot.
+
 
 Please be responsibile, do not try to aggravate many people!
 I am not responsibile for anything you do with this tool, so use at your own risk.
@@ -16,4 +20,3 @@ Best Wishes
 
 
 https://user-images.githubusercontent.com/81841025/122647308-a2aeea00-d0f1-11eb-984c-c9d6ef8d94ff.mp4
-
