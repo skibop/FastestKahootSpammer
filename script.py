@@ -11,26 +11,14 @@ import string
 import random
 import time
 import threading
-import json
 import os
 import time
 
 bot = client()
 
-if os.path.exists(os.getcwd() + "./config.json"):
-    
-    with open("./config.json") as f:
-        configData = json.load(f)
-    
-else:
-    configTemplate = {"gameid": "", "botamount": "", "custom_usr": ""}
-    
-    with open(os.getcwd() + "./config.json", "w+") as f:
-        json.dump(configTemplate, f)
-
-gameid = configData["gameid"]
-botamount = configData["botamount"]
-custom_usr = configData["custom_usr"]
+gameid = input('Enter the game pin: ')
+botamount = 88
+custom_usr = input('Enter the desired username for your bots: ')
 
 def spamjoin():
     def joingame():
@@ -47,7 +35,7 @@ def spamjoin():
 
     for x in range(0, (int(botamount) )) : 
         joingame()
-    time.sleep(0.3)
+    time.sleep(0.5)
 
 threads = []
 
