@@ -13,6 +13,7 @@ import time
 import threading
 import json
 import os
+import time
 
 bot = client()
 
@@ -46,7 +47,7 @@ def spamjoin():
 
     for x in range(0, (int(botamount) )) : 
         joingame()
-
+    time.sleep(0.3)
 
 threads = []
 
