@@ -8,6 +8,7 @@ Steps And Installation:
 -  After this is complete, you are set to go! 
 -  Lastly, run the python file and you will be prompted for the Code, and the name of the bots that you want to use. When you see the console printing out information about the bots joining, it means that the bots are successfully joining the kahoot lobby!
 -  If you so choose to take out the bots in a middle of the process, simply close out of the program that prints out the information about the bots joining the kahoot.
+-  Please be aware that whatever amount of number bots you choose, will not result in the exact number of bots in the lobby, rather it will be around 5 times as much. It is suggested you keep the bot amount at 100.
 
 
 Please be responsibile, do not try to aggravate many people!
