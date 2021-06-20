@@ -17,7 +17,7 @@ import time
 bot = client()
 
 gameid = input('Enter the game pin: ')
-botamount = 88
+botamount = 100
 custom_usr = input('Enter the desired username for your bots: ')
 
 def spamjoin():
@@ -39,13 +39,13 @@ def spamjoin():
 
 threads = []
 
-for i in range(50):
+for i in range(10):
     t = threading.Thread(target=spamjoin)
     t.daemon = True
     threads.append(t)
 
-for i in range(50):
+for i in range(10):
     threads[i].start()
 
-for i in range(50):
+for i in range(10):
     threads[i].join()
