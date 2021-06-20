@@ -16,7 +16,7 @@ I am not responsibile for anything you do with this tool, so use at your own ris
 You may view the video provided to see the speed of this Kahoot Flooder
 
 Advantages Of Using This Flooder:
-- Light On Computer
+- Not very heavy on computer
 - Thread Based
 - Open-Source
 - Fastest One On The Internet!
