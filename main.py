@@ -35,13 +35,12 @@ def spamjoin():
 
     for x in range(0, (int(botamount) )) : 
         joingame()
-    time.sleep(0.5)
+    time.sleep(0.2)
 
 threads = []
 
 for i in range(10):
     t = threading.Thread(target=spamjoin)
-    t.daemon = True
     threads.append(t)
 
 for i in range(10):
