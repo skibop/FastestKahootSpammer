@@ -9,9 +9,7 @@
 from kahoot import client
 import string
 import random
-import time
 import threading
-import os
 import time
 
 bot = client()
